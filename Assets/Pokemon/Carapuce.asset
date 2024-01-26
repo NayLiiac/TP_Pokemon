@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beee98c015cdace4fb68abeee34fd116, type: 3}
+  m_Name: Carapuce
+  m_EditorClassIdentifier: 
+  maxPV: 100
+  Pv: 100
+  Atk: 50
+  Def: 40
+  Vit: 50
+  Name: Carapuce
+  PokemonType: 3
+  WeaknessTypes: 0100000004000000
+  ResistanceTypes: 020000000a000000
+  ImmunityTypes: 
+  isSentOut: 0
+  isKnockOut: 0
+  Abilities:
+  - {fileID: 11400000, guid: 76943dfd0a82358489b9616de812a248, type: 2}
+  - {fileID: 11400000, guid: 21bb232f21310144fbb0e79cd472a0d4, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}

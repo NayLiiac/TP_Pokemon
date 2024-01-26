@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: beee98c015cdace4fb68abeee34fd116, type: 3}
+  m_Name: Bulbizarre
+  m_EditorClassIdentifier: 
+  Pv: 120
+  Atk: 40
+  Def: 60
+  Vit: 30
+  Name: Bulbizarre
+  PokemonType: 1
+  WeaknessTypes: 020000000e000000090000000a000000
+  ResistanceTypes: 10000000030000000c0000000800000004000000
+  ImmunityTypes: 
+  isSentOut: 0
+  isKnockOut: 0
+  Abilities:
+  - {fileID: 11400000, guid: 76943dfd0a82358489b9616de812a248, type: 2}
+  - {fileID: 11400000, guid: c065060cb6a81eb41b813613d48c44b6, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
